@@ -77,7 +77,7 @@ Used the default-information originate command to advertise the route to all rou
 
 In the routing table for R4, you can see the route was advertised. A similar routing table was shown on R2 and R3 as well.
 
-## Step 6 – Path Verification (Traceroute & Ping)
+## Step 6 – Path Verification (Traceroute)
 
 ### Traceroute 1
 
