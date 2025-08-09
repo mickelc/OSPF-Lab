@@ -102,6 +102,6 @@ Through this lab, I gained hands-on experience in:
 * Using passive interfaces to reduce unnecessary hello packet traffic.
 * Adjusting reference bandwidth to reflect high-speed link advantages.
 * Advertising a default route across the OSPF domain.
-* Verifying routing behavior with traceroutes and ping tests.
+* Verifying routing behavior with the traceroute command.
 
 Packet Tracer file available in repository.
