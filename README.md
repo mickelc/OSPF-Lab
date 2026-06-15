@@ -7,7 +7,7 @@ This project is a Cisco Packet Tracer lab that demonstrates the configuration of
 
 <img width="1740" height="900" alt="image" src="https://github.com/user-attachments/assets/607022ac-4f02-4525-8203-84777b6eb057" />
 
-In this setup, each router is connected to its respective networks, with IP addresses labeled in pink for network subnets, blue for the last digit in the IPv4 address, and yellow for internal IPv4 addresses within each network.
+In this setup, each router is connected to its respective networks, with IP addresses labeled in pink for network subnets, blue for IPv4 addresses with those subnets, and yellow for internal IPv4 addresses within each network.
 
 ## Step 1 – Hostname & Interface Configuration
 
